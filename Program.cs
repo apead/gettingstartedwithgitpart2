@@ -21,7 +21,7 @@ namespace section2codingwithgitpart2
 
         public void DoStuff()
         {
-
+            Console.WriteLine("Stuff");
             
         }
     }
